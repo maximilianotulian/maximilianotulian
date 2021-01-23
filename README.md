@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 👋, I'm Maximiliano Tulian
+
+I work as a front-end developer. I´m based in Rosario, Santa Fe, Argentina.
+
+Since 2015 I've been living web development and creating modern and user friendly interfaces. I've had the posibility to works in many different projects.
+
+## What I'm focusing on 👨‍💻
+
+Currently focusing my free time in improve my skills in ReactJS.
 
 ## Find me 📫 
 
