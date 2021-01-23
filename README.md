@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Maximiliano's github stats](https://github-readme-stats.vercel.app/api?username=maximilianotulian)](https://github.com/maximilianotulian/github-readme-stats)
+
 <!--
 **maximilianotulian/maximilianotulian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
