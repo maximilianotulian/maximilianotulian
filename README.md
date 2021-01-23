@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there 👋
+
+## Find me 📫 
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maximilianotulian/)](https://www.linkedin.com/in/maximilianotulian/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/max_tulian)](https://twitter.com/max_tulian)
+
+## Stats
 
 [![Maximiliano's github stats](https://github-readme-stats.vercel.app/api?username=maximilianotulian)](https://github.com/maximilianotulian/github-readme-stats)
 
@@ -15,7 +21,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
