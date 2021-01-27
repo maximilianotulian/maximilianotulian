@@ -12,12 +12,12 @@ Currently focusing my free time in improve my skills in ReactJS.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maximilianotulian/)](https://www.linkedin.com/in/maximilianotulian/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/max_tulian)](https://twitter.com/max_tulian)
 
-## Stats
+<!--## Stats
 
 [![Maximiliano's github stats](https://github-readme-stats.vercel.app/api?username=maximilianotulian)](https://github.com/maximilianotulian/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximilianotulian)](https://github.com/maximilianotulian/github-readme-stats)
-
+-->
 
 <!--
 **maximilianotulian/maximilianotulian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
