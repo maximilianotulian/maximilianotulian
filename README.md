@@ -6,7 +6,7 @@ Since 2015 I've been living web development and creating modern and user friendl
 
 ## What I'm focusing on 👨‍💻
 
-Currently focusing my free time in improve my skills in ReactJS and NodeJS.
+Currently focusing my free time in improve my skills in the React ecosystem.
 
 ## Find me 📫 
 
